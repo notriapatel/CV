@@ -1,6 +1,6 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+A recent graduate from Edinburgh University, I'm currently at the beginning of my coding career studying at Makers Academy in London. My goal is not only to broaden my skill set, but also to find a career that I am truly passionate about and that challenges me in exciting ways each day. 
 
 ## Skills
 
@@ -23,31 +23,32 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Dec 2019 to Mar 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Edinburgh
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- BA in Middle Eastern Studies
+- 2:1
+- Worked lights & sound for amateur productions during Edinburgh Fringe Festival
+- 
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**At Your Service & High Society** (May to August 2015)   
 *Your job title*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Pavilion Pharmacy** (July-August 2012-2017)    
+*Pharmacy Assistant*  
+- Any experience relevent to software development
+
+**Queen's Manor Primary School** (Oct 2012 to Apr 2013)   
+*French club assistant*  
 - Any experience relevent to software development
 
 ## Hobbies
