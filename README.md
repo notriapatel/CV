@@ -1,4 +1,4 @@
-## Your Name
+## Ria Patel
 
 A recent graduate from Edinburgh University, I'm currently at the beginning of my coding career studying at Makers Academy in London. My goal is not only to broaden my skill set, but also to find a career that I am truly passionate about and that challenges me in exciting ways each day. 
 
@@ -45,10 +45,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Pavilion Pharmacy** (July-August 2012-2017)    
 *Pharmacy Assistant*  
-- Any experience relevent to software development
-
-**Queen's Manor Primary School** (Oct 2012 to Apr 2013)   
-*French club assistant*  
 - Any experience relevent to software development
 
 ## Hobbies
